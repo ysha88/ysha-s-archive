@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Ayisha's Archive!
 
-You can use the [editor on GitHub](https://github.com/ysha88/ysha-s-archive/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'll be using this project as a test run for an online art portfolio. I hope to major in graphic design in the future <3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### copyright notice
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+the first graphic is a recreation of Faky's "The Light" album cover, images of Red Velvet were used for this project.
 
 ```markdown
 Syntax highlighted code block
@@ -35,5 +33,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-#welcome to ayisha's archive

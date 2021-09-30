@@ -1,6 +1,6 @@
-## Welcome to Ayisha's Archive!
+## welcome to Ayisha's Archive!
 
-I'll be using this project as a test run for an online art portfolio. I hope to major in graphic design in the future :)
+I'll be using this project as a test run for an online art portfolio. I hope to work in graphic design in the future :)
 
 ### copyright notice
 

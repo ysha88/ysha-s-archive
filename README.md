@@ -26,10 +26,11 @@ Syntax highlighted code block
 ![Image](image1.jpeg)
 ![Image](chungha_poster_revision.jpg)
 
-## shoutout to the pen tool
+## shoutout to the pen tool :P
 
 a lot of my work involves using a pen tool to draw custom shapes and cut out small details, here's a game I used to learn how to use it.
 [Link](https://bezier.method.ac/)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

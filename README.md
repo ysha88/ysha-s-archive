@@ -1,10 +1,10 @@
 ## Welcome to Ayisha's Archive!
 
-I'll be using this project as a test run for an online art portfolio. I hope to major in graphic design in the future <3
+I'll be using this project as a test run for an online art portfolio. I hope to major in graphic design in the future :)
 
 ### copyright notice
 
-the first graphic is a recreation of Faky's "The Light" album cover, images of Red Velvet were used for this project.
+the first graphic is a recreation of Faky's "The Light" album cover, images of Red Velvet were used for this project. the second graphic uses images of Chungha.
 
 ```markdown
 Syntax highlighted code block
